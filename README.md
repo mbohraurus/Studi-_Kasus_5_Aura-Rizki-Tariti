@@ -23,5 +23,6 @@ Nah, ini adalah versi penghitungan `durasi parkir berdasarkan menit`, agak ribet
 
 Hasil output buat program versi 'gak resmi' ini:
 <img width="696" height="896" alt="Screenshot 2026-09-22 213133" src="https://github.com/user-attachments/assets/316963d1-5c8e-4945-a1e3-15649099c2df" />
+
 Dan ini contoh akibat dari pemrosesan tarif parkir mobil dalam 1 jam yang seharusnya Rp.5000, malah jadi Rp.4800an aja.
 <img width="607" height="126" alt="Screenshot 2026-09-22 213149" src="https://github.com/user-attachments/assets/f200d4dc-8b97-46b0-9fea-c3e9e127cb76" />
