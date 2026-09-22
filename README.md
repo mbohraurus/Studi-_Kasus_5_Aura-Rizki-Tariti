@@ -1,10 +1,10 @@
 # Studi-_Kasus_5_Aura-Rizki-Tariti
 
-Nama: Aura Rizki Tariti
-Kelas: A
-Angkatan: 2026
-NIM: 2609116032
-Soal: Genap
+**Nama: Aura Rizki Tariti**<br>
+**Kelas: A**<br>
+**Angkatan: 2026**<br>
+**NIM: 2609116032**<br>
+**Soal: Genap**<br>
 
 Sebenarnya saya punya dua versi kode untuk studi kasus ini, yang saya upload dalam bentuk file Python di repository ini adalah sistem yang menghitung tarif parkir berdasarkan jenis kendaraan dan durasi `dalam hitungan jam`.
 Saya punya satu versi lagi yang menghitung tarif berdasarkan durasi `dalam hitungan menit`, tapi kurang akurat karena ada bilangan seperti patokan tarif parkir mobil yang jadi bilangan desimal dan bukan integer.
