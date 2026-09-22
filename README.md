@@ -6,7 +6,7 @@
 **NIM: 2609116032**<br>
 **Soal: Genap**<br>
 
-Sebenarnya saya punya dua versi kode untuk studi kasus ini, yang saya upload dalam bentuk file Python di repository ini adalah sistem yang menghitung tarif parkir berdasarkan jenis kendaraan dan durasi `dalam hitungan jam`.
+Sebenarnya saya punya dua versi kode untuk studi kasus ini, yang saya upload dalam bentuk file Python di repository ini **(yang nama filenya pakai kata DDP)** adalah sistem yang menghitung tarif parkir berdasarkan jenis kendaraan dan durasi `dalam hitungan jam`.
 Saya punya satu versi lagi yang menghitung tarif berdasarkan durasi `dalam hitungan menit`, tapi kurang akurat karena ada bilangan seperti patokan tarif parkir mobil yang jadi bilangan desimal dan bukan integer.
 
 Untuk versi kode yang berbasis durasi parkir dalam hitungan jam, saya menggunakan function `hitung` dengan parameter `jenis` kendaraan dan `durasi` parkir. Jadi, kegunaan fungsi ini adalah fokus pada proses pengolahan input yang butuh operasi aritmetika, sedangkan perintah input dan outputnya sendiri disusun seperti biasa dalam perulangan `while`.
